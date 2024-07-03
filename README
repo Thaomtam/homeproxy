@@ -1,6 +1,5 @@
-TODO:
-- Subscription page slow response with a large number of nodes
-- Refactor nft rules
-- Support Clash selector, urltest etc.
-- Move ACL settings to a dedicated page
-- Any other improvements
+Các món phụ gia
+
+DoH：https://dns.google/dns-query
+Geosite-VN: https://github.com/Thaomtam/Geosite-vn/raw/rule-set/Geosite-vn.srs
+IP VIỆT NAM: 2.56.16.0
